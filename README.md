@@ -22,7 +22,7 @@ plugin uses syntax that requires version 2.2.0 or newer.
 ### Documentation
 For more information on using Spark with dbt, consult the dbt documentation:
 - [Spark profile](https://docs.getdbt.com/docs/profile-spark)
-- [Spark specific configs](https://docs.getdbt.com/docs/spark-configs)
+- [Spark specific configs](https://docs.getdbt.com/reference/resource-configs/spark-configs/)
 
 ### Installation
 This plugin can be installed via pip:
